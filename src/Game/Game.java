@@ -41,6 +41,7 @@ public class Game implements Runnable {
         this.title = title;
         this.width = width;
         this.height = height;
+
     }
 
     public void init() {
